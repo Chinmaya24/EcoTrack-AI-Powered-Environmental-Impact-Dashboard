@@ -33,8 +33,8 @@ EcoTrack is a web-based application designed to help individuals, organizations,
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/ecotrack.git
-cd ecotrack
+git clone https://github.com/Chinmaya24/EcoTrack-AI-Powered-Environmental-Impact-Dashboard.git
+
 ```
 
 2. **Create Virtual Environment**
@@ -60,16 +60,15 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 
 ## ▶️ Running the Application
 ```bash
-cd "hackathon final/main"
 python app.py
 ```
-The app will run locally on **http://127.0.0.1:5000**.
+The app will run locally on **http://127.0.0.1:5050**.
 
 ---
 
 ## 📧 Running Email Reporting Service
 ```bash
-cd "hackathon final/main/email"
+cd email"
 python app.py
 ```
 Make sure `client_secrets.json` is configured for Google API access.
