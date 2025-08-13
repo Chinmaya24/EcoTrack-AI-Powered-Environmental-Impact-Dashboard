@@ -68,7 +68,7 @@ The app will run locally on **http://127.0.0.1:5050**.
 
 ## 📧 Running Email Reporting Service
 ```bash
-cd email"
+cd email
 python app.py
 ```
 Make sure `client_secrets.json` is configured for Google API access.
