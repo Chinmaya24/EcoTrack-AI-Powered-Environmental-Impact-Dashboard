@@ -1,0 +1,452 @@
+[
+    {
+      "id": "digital_carbon_general",
+      "keywords": ["digital carbon", "carbon footprint", "electronic", "tech footprint", "digital emissions", "what is", "explain", "define"],
+      "phrases": [
+        "what is digital carbon",
+        "what are digital carbon emissions",
+        "explain digital carbon footprint",
+        "define digital carbon emissions",
+        "what is the meaning of digital carbon",
+        "tell me about digital carbon emissions"
+      ],
+      "responses": [
+        "Digital carbon emissions refer to the carbon footprint created by our digital activities. This includes the electricity used by data centers, networks, and devices, as well as the emissions from manufacturing and disposing of digital devices. The ICT sector currently accounts for approximately 2-4% of global carbon emissions, comparable to the aviation industry."
+      ]
+    },
+    {
+      "id": "reduce_digital_carbon",
+      "keywords": ["reduce", "decrease", "lower", "minimize", "cut down", "digital carbon", "emissions", "how to", "ways to", "tips", "steps"],
+      "phrases": [
+        "how to reduce digital carbon",
+        "ways to reduce digital emissions",
+        "reduce online carbon footprint",
+        "how can I reduce my digital carbon footprint",
+        "what are the ways to reduce digital emissions",
+        "give me tips to reduce digital carbon",
+        "steps to reduce digital carbon emissions",
+        "how to minimize digital carbon footprint",
+        "ways to lower my digital carbon emissions"
+      ],
+      "responses": [
+        "Here are practical ways to reduce your digital carbon emissions:\n1. Use energy-efficient devices and enable power-saving modes\n2. Unsubscribe from unnecessary emails and newsletters\n3. Stream videos in lower quality when possible\n4. Use cloud storage efficiently and delete unused files\n5. Keep devices longer instead of frequent upgrades\n6. Use dark mode when available\n7. Turn off devices when not in use\n8. Use local data centers when possible\n9. Optimize website and app usage\n10. Consider renewable energy for your home/office"
+      ]
+    },
+    {
+      "id": "digital_carbon_impact",
+      "keywords": ["impact", "effect", "consequences", "damage", "harm", "digital carbon", "emissions", "environment"],
+      "phrases": [
+        "what is the impact of digital carbon emissions",
+        "how do digital emissions affect the environment",
+        "what are the consequences of digital carbon",
+        "how harmful are digital carbon emissions",
+        "what damage do digital emissions cause",
+        "effects of digital carbon on environment"
+      ],
+      "responses": [
+        "Digital carbon emissions impact the environment in several ways:\n1. Energy consumption from data centers and devices\n2. Manufacturing emissions from producing electronic devices\n3. E-waste generation and disposal\n4. Network infrastructure energy usage\n5. Cloud storage and computing power requirements\n6. Internet traffic and data transfer emissions\n7. Device charging and battery production\n8. Server cooling and maintenance emissions\n9. Network equipment manufacturing\n10. End-of-life device disposal impact"
+      ]
+    },
+    {
+      "id": "digital_carbon_statistics",
+      "keywords": ["statistics", "numbers", "data", "figures", "percentage", "digital carbon", "emissions"],
+      "phrases": [
+        "what are the statistics of digital carbon emissions",
+        "give me numbers about digital emissions",
+        "digital carbon emission statistics",
+        "how much carbon do digital activities produce",
+        "what percentage of emissions are digital",
+        "digital carbon emission data"
+      ],
+      "responses": [
+        "Key statistics about digital carbon emissions:\n- ICT sector accounts for 2-4% of global carbon emissions\n- Data centers consume about 1% of global electricity\n- Email spam generates 17 million tons of CO2 annually\n- Video streaming accounts for 60% of internet traffic\n- A single email produces 4g of CO2\n- Cloud computing could reach 14% of global emissions by 2040\n- Digital devices contribute 3.7% of global emissions\n- Internet usage grows 40% annually\n- Data centers use 200 terawatt hours of electricity yearly\n- E-waste is growing 3 times faster than other waste"
+      ]
+    },
+    {
+      "id": "digital_carbon_solutions",
+      "keywords": ["solutions", "fix", "address", "solve", "digital carbon", "emissions", "problems"],
+      "phrases": [
+        "what are the solutions to digital carbon emissions",
+        "how to solve digital carbon problems",
+        "ways to address digital emissions",
+        "solutions for reducing digital carbon",
+        "how can we fix digital carbon emissions",
+        "what are the fixes for digital carbon"
+      ],
+      "responses": [
+        "Solutions to address digital carbon emissions include:\n1. Transition to renewable energy for data centers\n2. Implement energy-efficient coding practices\n3. Develop sustainable data center designs\n4. Create circular economy for electronic devices\n5. Optimize network infrastructure\n6. Implement smart power management\n7. Use sustainable cloud computing practices\n8. Develop energy-efficient algorithms\n9. Implement green coding standards\n10. Create sustainable digital product design"
+      ]
+    },
+    {
+      "id": "sdg7_clean_energy",
+      "keywords": ["sdg7", "sdg 7", "clean energy", "affordable energy", "renewable", "solar", "wind"],
+      "phrases": [
+        "tell me about sdg 7",
+        "sustainable development goal 7",
+        "clean energy",
+        "what is sdg 7",
+        "explain sdg 7",
+        "what does sdg 7 mean",
+        "tell me about clean energy",
+        "what is clean energy",
+        "how does clean energy help"
+      ],
+      "responses": [
+        "SDG 7 focuses on ensuring access to affordable, reliable, sustainable, and modern energy for all. Currently, about 760 million people lack access to electricity globally. This goal aims to increase the share of renewable energy in the global energy mix and improve energy efficiency."
+      ]
+    },
+    {
+      "id": "sdg13_climate_action",
+      "keywords": ["sdg13", "sdg 13", "climate action", "climate change", "global warming"],
+      "phrases": [
+        "tell me about sdg 13",
+        "sustainable development goal 13",
+        "climate action",
+        "what is sdg 13",
+        "explain sdg 13",
+        "what does sdg 13 mean",
+        "tell me about climate action",
+        "what is climate action",
+        "how to take climate action"
+      ],
+      "responses": [
+        "SDG 13 (Climate Action) calls for urgent action to combat climate change and its impacts. It aims to strengthen resilience and adaptive capacity to climate-related hazards, integrate climate change measures into policies, and improve education and awareness on climate issues."
+      ]
+    },
+    {
+      "id": "sdg9_industry_innovation",
+      "keywords": ["sdg9", "sdg 9", "industry", "innovation", "infrastructure"],
+      "phrases": [
+        "tell me about sdg 9",
+        "sustainable development goal 9",
+        "industry innovation",
+        "what is sdg 9",
+        "explain sdg 9",
+        "what does sdg 9 mean",
+        "tell me about industry innovation",
+        "what is sustainable industry",
+        "how to innovate sustainably"
+      ],
+      "responses": [
+        "SDG 9 aims to build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation. It emphasizes the importance of technology and innovation in achieving sustainable development and economic growth."
+      ]
+    },
+    {
+      "id": "sdg12_responsible_consumption",
+      "keywords": ["sdg12", "sdg 12", "responsible consumption", "sustainable consumption"],
+      "phrases": [
+        "tell me about sdg 12",
+        "sustainable development goal 12",
+        "responsible consumption",
+        "what is sdg 12",
+        "explain sdg 12",
+        "what does sdg 12 mean",
+        "tell me about responsible consumption",
+        "what is sustainable consumption",
+        "how to consume responsibly"
+      ],
+      "responses": [
+        "SDG 12 aims to ensure sustainable consumption and production patterns. It focuses on reducing waste generation, promoting resource efficiency, and encouraging industries to adopt sustainable practices."
+      ]
+    },
+    {
+      "id": "sustainability_science",
+      "keywords": ["sustainability science", "environmental science", "ecology", "ecosystems", "biodiversity", "climate science"],
+      "phrases": [
+        "what is sustainability science",
+        "explain environmental science",
+        "tell me about ecology",
+        "what is biodiversity",
+        "how do ecosystems work",
+        "what is climate science",
+        "explain sustainability research",
+        "what is environmental research",
+        "how does climate change affect ecosystems"
+      ],
+      "responses": [
+        "Sustainability science is an interdisciplinary field that studies the interactions between natural and social systems. Key aspects include:\n1. Environmental systems and their dynamics\n2. Social-ecological interactions\n3. Biodiversity conservation\n4. Ecosystem services\n5. Climate change impacts\n6. Resource management\n7. Environmental policy\n8. Sustainable development\n9. Ecological restoration\n10. Environmental monitoring"
+      ]
+    },
+    {
+      "id": "green_technology",
+      "keywords": ["green tech", "clean tech", "renewable technology", "sustainable technology", "eco-friendly tech", "environmental technology"],
+      "phrases": [
+        "what is green technology",
+        "explain clean technology",
+        "tell me about renewable technology",
+        "what are sustainable technologies",
+        "how does green tech work",
+        "what is eco-friendly technology",
+        "explain environmental technology",
+        "what are the latest green tech innovations"
+      ],
+      "responses": [
+        "Green technology encompasses innovations that reduce environmental impact. Key areas include:\n1. Solar power technology\n2. Wind energy systems\n3. Electric vehicles\n4. Smart grid technology\n5. Energy storage solutions\n6. Water purification systems\n7. Waste management technology\n8. Green building materials\n9. Bio-based materials\n10. Carbon capture technology"
+      ]
+    },
+    {
+      "id": "environmental_impact",
+      "keywords": ["environmental impact", "ecological footprint", "environmental damage", "pollution", "climate impact", "ecosystem damage"],
+      "phrases": [
+        "what is environmental impact",
+        "explain ecological footprint",
+        "how does pollution affect the environment",
+        "what is climate impact",
+        "tell me about ecosystem damage",
+        "how do human activities affect the environment",
+        "what are environmental consequences",
+        "explain environmental damage"
+      ],
+      "responses": [
+        "Environmental impact refers to changes in the environment caused by human activities. Key impacts include:\n1. Air pollution and quality\n2. Water contamination\n3. Soil degradation\n4. Biodiversity loss\n5. Climate change effects\n6. Ocean acidification\n7. Deforestation\n8. Habitat destruction\n9. Resource depletion\n10. Waste accumulation"
+      ]
+    },
+    {
+      "id": "renewable_energy_science",
+      "keywords": ["renewable energy", "solar science", "wind power", "hydroelectric", "biomass", "geothermal", "renewable technology"],
+      "phrases": [
+        "how does renewable energy work",
+        "explain solar power science",
+        "what is wind energy technology",
+        "how does hydroelectric power work",
+        "explain biomass energy",
+        "what is geothermal energy",
+        "how do renewable technologies work",
+        "tell me about renewable energy science"
+      ],
+      "responses": [
+        "Renewable energy science studies sustainable power sources. Key technologies include:\n1. Solar photovoltaic systems\n2. Wind turbine technology\n3. Hydroelectric power generation\n4. Biomass energy conversion\n5. Geothermal energy extraction\n6. Tidal and wave power\n7. Energy storage systems\n8. Smart grid technology\n9. Microgrid systems\n10. Renewable integration technology"
+      ]
+    },
+    {
+      "id": "climate_science",
+      "keywords": ["climate science", "global warming", "climate change", "greenhouse effect", "climate models", "atmospheric science"],
+      "phrases": [
+        "what is climate science",
+        "explain global warming",
+        "how does climate change work",
+        "what is the greenhouse effect",
+        "tell me about climate models",
+        "what is atmospheric science",
+        "how do climate scientists study climate",
+        "explain climate research"
+      ],
+      "responses": [
+        "Climate science studies Earth's climate system. Key aspects include:\n1. Atmospheric composition\n2. Ocean circulation\n3. Ice sheet dynamics\n4. Carbon cycle\n5. Climate modeling\n6. Weather patterns\n7. Sea level rise\n8. Extreme weather events\n9. Climate feedback loops\n10. Paleoclimate studies"
+      ]
+    },
+    {
+      "id": "environmental_monitoring",
+      "keywords": ["environmental monitoring", "climate monitoring", "pollution monitoring", "ecosystem monitoring", "biodiversity tracking"],
+      "phrases": [
+        "how is the environment monitored",
+        "explain climate monitoring",
+        "what is pollution monitoring",
+        "how do scientists track ecosystems",
+        "what is biodiversity monitoring",
+        "tell me about environmental tracking",
+        "how is climate data collected",
+        "explain environmental data collection"
+      ],
+      "responses": [
+        "Environmental monitoring involves tracking environmental changes. Key methods include:\n1. Satellite remote sensing\n2. Ground-based sensors\n3. Air quality monitoring\n4. Water quality testing\n5. Biodiversity surveys\n6. Climate data collection\n7. Soil monitoring\n8. Ocean acidification tracking\n9. Forest monitoring\n10. Wildlife tracking"
+      ]
+    },
+    {
+      "id": "sustainable_agriculture",
+      "keywords": ["sustainable agriculture", "organic farming", "regenerative agriculture", "permaculture", "agroecology"],
+      "phrases": [
+        "what is sustainable agriculture",
+        "explain organic farming",
+        "what is regenerative agriculture",
+        "tell me about permaculture",
+        "what is agroecology",
+        "how does sustainable farming work",
+        "what are sustainable farming methods",
+        "explain sustainable food production"
+      ],
+      "responses": [
+        "Sustainable agriculture practices include:\n1. Crop rotation\n2. Organic farming methods\n3. Soil conservation\n4. Water management\n5. Integrated pest management\n6. Agroforestry\n7. Conservation tillage\n8. Cover cropping\n9. Composting\n10. Biodiversity preservation"
+      ]
+    },
+    {
+      "id": "carbon_footprint_basics",
+      "keywords": ["carbon footprint", "carbon emissions", "carbon dioxide", "CO2", "greenhouse gases", "carbon impact"],
+      "phrases": [
+        "what is carbon footprint",
+        "explain carbon emissions",
+        "what are greenhouse gases",
+        "how to calculate carbon footprint",
+        "what is CO2 emissions",
+        "tell me about carbon dioxide",
+        "what is my carbon footprint",
+        "how to measure carbon emissions",
+        "explain carbon impact"
+      ],
+      "responses": [
+        "Carbon footprint is the total amount of greenhouse gases (primarily CO2) emitted directly or indirectly by human activities. Key aspects include:\n1. Direct emissions from transportation and energy use\n2. Indirect emissions from products and services\n3. Industrial processes and manufacturing\n4. Agriculture and food production\n5. Waste generation and disposal\n6. Building operations and construction\n7. Digital activities and internet usage\n8. Consumer goods and services\n9. Travel and transportation\n10. Energy consumption patterns"
+      ]
+    },
+    {
+      "id": "carbon_reduction_methods",
+      "keywords": ["reduce carbon", "lower emissions", "carbon reduction", "emissions reduction", "carbon offset", "carbon neutral"],
+      "phrases": [
+        "how to reduce carbon footprint",
+        "ways to lower emissions",
+        "how to become carbon neutral",
+        "what is carbon offsetting",
+        "how to reduce CO2 emissions",
+        "ways to minimize carbon footprint",
+        "how to offset carbon emissions",
+        "what are carbon reduction methods",
+        "how to reduce greenhouse gases"
+      ],
+      "responses": [
+        "Methods to reduce carbon footprint include:\n1. Switch to renewable energy sources\n2. Use energy-efficient appliances and lighting\n3. Reduce, reuse, and recycle\n4. Choose sustainable transportation\n5. Eat a plant-based diet\n6. Minimize air travel\n7. Use public transportation\n8. Implement energy-saving practices\n9. Support carbon offset projects\n10. Choose eco-friendly products"
+      ]
+    },
+    {
+      "id": "carbon_emissions_sources",
+      "keywords": ["emissions sources", "carbon sources", "emission factors", "carbon contributors", "emission types"],
+      "phrases": [
+        "what are the main sources of carbon emissions",
+        "where do carbon emissions come from",
+        "what causes carbon emissions",
+        "major sources of greenhouse gases",
+        "what produces CO2",
+        "what activities emit carbon",
+        "what contributes to carbon footprint",
+        "what are emission sources",
+        "what creates carbon emissions"
+      ],
+      "responses": [
+        "Main sources of carbon emissions include:\n1. Electricity generation (coal, natural gas)\n2. Transportation (cars, planes, ships)\n3. Industrial processes\n4. Buildings and construction\n5. Agriculture and livestock\n6. Deforestation and land use\n7. Waste management\n8. Digital infrastructure\n9. Manufacturing processes\n10. Consumer goods production"
+      ]
+    },
+    {
+      "id": "carbon_measurement",
+      "keywords": ["measure carbon", "calculate emissions", "carbon calculation", "emissions measurement", "carbon metrics"],
+      "phrases": [
+        "how to measure carbon emissions",
+        "how to calculate carbon footprint",
+        "what are carbon metrics",
+        "how is carbon measured",
+        "what units measure carbon",
+        "how to track carbon emissions",
+        "what is carbon accounting",
+        "how to monitor carbon",
+        "what measures greenhouse gases"
+      ],
+      "responses": [
+        "Carbon emissions are measured in several ways:\n1. CO2 equivalent (CO2e)\n2. Metric tons of carbon dioxide\n3. Carbon intensity per unit\n4. Per capita emissions\n5. Total greenhouse gas emissions\n6. Carbon footprint calculators\n7. Life cycle assessment\n8. Carbon accounting methods\n9. Emissions inventories\n10. Carbon monitoring systems"
+      ]
+    },
+    {
+      "id": "carbon_impact_areas",
+      "keywords": ["carbon impact", "emissions impact", "environmental impact", "climate impact", "carbon effects"],
+      "phrases": [
+        "how does carbon affect the environment",
+        "what is the impact of carbon emissions",
+        "how do emissions affect climate",
+        "what are carbon emission effects",
+        "how does CO2 impact the planet",
+        "what damage do carbon emissions cause",
+        "how do emissions affect ecosystems",
+        "what is the carbon impact",
+        "how do emissions affect health"
+      ],
+      "responses": [
+        "Carbon emissions impact various areas:\n1. Global temperature rise\n2. Ocean acidification\n3. Sea level rise\n4. Extreme weather events\n5. Ecosystem disruption\n6. Air quality degradation\n7. Human health impacts\n8. Agricultural changes\n9. Biodiversity loss\n10. Economic consequences"
+      ]
+    },
+    {
+      "id": "carbon_basics",
+      "keywords": ["carbon", "carbon element", "carbon cycle", "carbon atoms", "carbon compounds", "carbon chemistry"],
+      "phrases": [
+        "what is carbon",
+        "explain carbon element",
+        "what is the carbon cycle",
+        "tell me about carbon atoms",
+        "what are carbon compounds",
+        "explain carbon chemistry",
+        "what is carbon made of",
+        "how does carbon work",
+        "what is carbon's role in nature"
+      ],
+      "responses": [
+        "Carbon is a chemical element fundamental to life on Earth. Key aspects include:\n1. Basic element with symbol C and atomic number 6\n2. Forms the basis of all known life\n3. Exists in multiple forms (diamond, graphite, fullerenes)\n4. Key component of organic compounds\n5. Essential part of the carbon cycle\n6. Forms millions of compounds\n7. Present in atmosphere as CO2\n8. Stored in fossil fuels\n9. Found in all living organisms\n10. Critical for photosynthesis"
+      ]
+    },
+    {
+      "id": "carbon_cycle",
+      "keywords": ["carbon cycle", "carbon circulation", "carbon movement", "carbon flow", "carbon exchange"],
+      "phrases": [
+        "how does the carbon cycle work",
+        "explain carbon circulation",
+        "what is the carbon cycle",
+        "how does carbon move through nature",
+        "tell me about carbon flow",
+        "how does carbon exchange work",
+        "what is carbon cycling",
+        "how does carbon circulate",
+        "explain carbon movement"
+      ],
+      "responses": [
+        "The carbon cycle is Earth's natural process of carbon circulation. Key components include:\n1. Photosynthesis (plants absorb CO2)\n2. Respiration (organisms release CO2)\n3. Decomposition (organic matter breakdown)\n4. Ocean absorption (CO2 dissolves in water)\n5. Fossil fuel formation\n6. Volcanic eruptions\n7. Weathering of rocks\n8. Ocean acidification\n9. Carbon sequestration\n10. Human activities impact"
+      ]
+    },
+    {
+      "id": "carbon_emission_causes",
+      "keywords": ["carbon emission causes", "emission sources", "emission reasons", "carbon release", "emission triggers"],
+      "phrases": [
+        "what causes carbon emissions",
+        "why do we have carbon emissions",
+        "what triggers carbon release",
+        "what leads to carbon emissions",
+        "why are there carbon emissions",
+        "what creates carbon emissions",
+        "what produces carbon dioxide",
+        "what activities cause emissions",
+        "what generates carbon emissions"
+      ],
+      "responses": [
+        "Carbon emissions are caused by various human and natural activities:\n1. Burning fossil fuels (coal, oil, gas)\n2. Industrial manufacturing processes\n3. Transportation (vehicles, aircraft, ships)\n4. Electricity generation\n5. Deforestation and land use changes\n6. Agricultural practices\n7. Waste decomposition\n8. Building heating and cooling\n9. Digital infrastructure operations\n10. Consumer goods production"
+      ]
+    },
+    {
+      "id": "carbon_emission_effects",
+      "keywords": ["emission effects", "carbon impact", "emission consequences", "carbon damage", "emission results"],
+      "phrases": [
+        "what do carbon emissions do",
+        "how do emissions affect us",
+        "what happens because of carbon emissions",
+        "what are the effects of emissions",
+        "how do emissions impact Earth",
+        "what damage do emissions cause",
+        "what are emission consequences",
+        "how do emissions affect climate",
+        "what problems do emissions create"
+      ],
+      "responses": [
+        "Carbon emissions cause various effects:\n1. Global warming and climate change\n2. Rising sea levels\n3. Ocean acidification\n4. Extreme weather events\n5. Air pollution and health issues\n6. Ecosystem disruption\n7. Agricultural impacts\n8. Economic consequences\n9. Biodiversity loss\n10. Resource scarcity"
+      ]
+    },
+    {
+      "id": "carbon_emission_control",
+      "keywords": ["emission control", "carbon management", "emission reduction", "carbon mitigation", "emission prevention"],
+      "phrases": [
+        "how to control carbon emissions",
+        "ways to manage emissions",
+        "how to prevent carbon release",
+        "what controls emissions",
+        "how to mitigate carbon",
+        "ways to limit emissions",
+        "how to stop carbon emissions",
+        "what reduces emissions",
+        "how to manage carbon release"
+      ],
+      "responses": [
+        "Methods to control carbon emissions include:\n1. Renewable energy adoption\n2. Energy efficiency improvements\n3. Industrial process optimization\n4. Sustainable transportation\n5. Forest conservation\n6. Carbon capture technology\n7. Waste reduction\n8. Green building practices\n9. Sustainable agriculture\n10. Policy and regulation implementation"
+      ]
+    }
+]

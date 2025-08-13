@@ -1,0 +1,15 @@
+Flask
+flask_sqlalchemy
+python-dotenv
+numpy
+pandas
+psycopg2
+google-auth-oauthlib
+google-api-python-client
+reportlab
+xhtml2pdf
+statsmodels
+scipy
+prophet
+psutil
+GPUtil
